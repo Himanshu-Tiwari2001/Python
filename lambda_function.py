@@ -239,7 +239,7 @@ strings=['apple','banana','cherry','date','elderberry','apple','banana']
 least_frequent_string=lambda x: Counter(x).most_common()[-1][0]
 print(least_frequent_string(strings)) # Output: cherry
 
-C:\Users\virat\Desktop\Python Practice\lambda_function.py
+
 
 
 
