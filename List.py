@@ -2,36 +2,36 @@
 
 
 
-# list=["Python","Data Science","Data Analytics","Panda","Numpy"]
-# print(list)
-# #adding element in list
-# list.append("Seaborn")
-# print(list)
+list=["Python","Data Science","Data Analytics","Panda","Numpy"]
+print(list)
+#adding element in list
+list.append("Seaborn")
+print(list)
 
-# list2=["java","Spring","Springboot"]
-# #combination of lists using extends function
-# combination_oflist=list.extend(list2)
+list2=["java","Spring","Springboot"]
+#combination of lists using extends function
+combination_oflist=list.extend(list2)
 
-# print(combination_oflist)
+print(combination_oflist)
 
-# list.insert(2,"Matplotlib")
+list.insert(2,"Matplotlib")
 
-# print(list)
+print(list)
 
-# print(list+list2)
+print(list+list2)
 
 
-# take input from the user for the size of the list
-# list1= []
-# # number of elements as input
-# n=int(input("Enter the length of the list : "))
+#take input from the user for the size of the list
+list1= []
+# number of elements as input
+n=int(input("Enter the length of the list : "))
 
-# # iterating till the range
-# for i in range (0,n):
-#     num=int(input(f"Enter the {i} index  number of the list"))
-#     # adding the element
-#     list1.append(num)
-# print(list1)
+# iterating till the range
+for i in range (0,n):
+    num=int(input(f"Enter the {i} index  number of the list"))
+    # adding the element
+    list1.append(num)
+print(list1)
 
 
 #sorting of lists
