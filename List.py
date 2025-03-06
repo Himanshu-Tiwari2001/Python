@@ -176,4 +176,22 @@ print(numbers[::2]) # it print 1,3,5,7,9 here 2 represent the increment value
 
 print(numbers[::-1]) # it print 10,9,8,7,6,5,4,3,2,1 in reverse order
 
+# clear the list 
+
+# numbers.clear()
+# print(numbers)
+
+# using del keyword
+
+# del numbers[1:5]
+# print(numbers)
+
+# del numbers[::2]
+# print(numbers)
+
+
+
+
+
+
 
